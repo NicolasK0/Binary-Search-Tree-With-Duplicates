@@ -1,4 +1,4 @@
-# BinarySearchTreeWithDups
+# Binary Search Tree With Duplicates
 
 The class BinarySearchTreeWithDups extends BinarySearchTree. 
 Methods addded/modified:
